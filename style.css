@@ -1,0 +1,11 @@
+body {
+    border: 8px solid black;
+    display: flex;
+}
+
+.squircle {
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    font-size: 40pt;
+}
